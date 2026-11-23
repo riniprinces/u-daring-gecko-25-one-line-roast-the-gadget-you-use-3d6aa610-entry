@@ -1,0 +1,1 @@
+My banking app texts me a code to prove I'm me, then locks me out for typing it too slowly.
