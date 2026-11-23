@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/riniprinces/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 [![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/riniprinces/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610-entry/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-A tiny TypeScript program that writes one original one-line roast of a daily gadget — the banking app whose two-factor code expires while you are still typing it — to entry.txt.
+A one-line roast of the gadget I use every day — my banking app — delivered as a tiny TypeScript program that validates the line (1–200 chars, single line, valid UTF-8) and writes it to `entry.txt`.
 
 ## Run it
 
